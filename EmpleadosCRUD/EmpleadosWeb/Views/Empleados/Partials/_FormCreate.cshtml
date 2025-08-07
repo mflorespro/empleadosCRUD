@@ -1,0 +1,44 @@
+﻿@model EmpleadosWeb.Models.Empleado
+
+<form id="formCrearEmpleado" method="post" asp-controller="Empleados" asp-action="Create">
+    <input type="hidden" name="Id" value="@Model.Id" />
+    <div class="mb-2">
+        <label>Nombre</label>
+        <input type="text" name="Nombre" value="@Model.Nombre" class="w-full border p-2 rounded" />
+        <span asp-validation-for="Nombre" class="text-red-500"></span>
+    </div>
+    <div class="mb-2">
+        <label>Apellido</label>
+        <input type="text" name="Apellido" value="@Model.Apellido" class="w-full border p-2 rounded" />
+        <span asp-validation-for="Apellido" class="text-red-500"></span>
+    </div>
+    <div class="mb-2">
+        <label>Edad</label>
+        <input type="number" name="Edad" value="@Model.Edad" class="w-full border p-2 rounded" />
+        <span asp-validation-for="Edad" class="text-red-500"></span>
+    </div>
+    <div class="mb-2">
+        <label>Correo</label>
+        <input type="email" name="Correo" value="@Model.Correo" class="w-full border p-2 rounded" />
+        <span asp-validation-for="Correo" class="text-red-500"></span>
+    </div>
+    <div class="mb-2">
+        <label>Departamento</label>
+        <input type="text" name="Departamento" value="@Model.Departamento" class="w-full border p-2 rounded" />
+        <span asp-validation-for="Departamento" class="text-red-500"></span>
+    </div>
+    <div class="mb-2">
+        <label>Puesto</label>
+        <input type="text" name="Puesto" value="@Model.Puesto" class="w-full border p-2 rounded" />
+        <span asp-validation-for="Puesto" class="text-red-500"></span>
+    </div>
+    <div class="mb-2">
+        <label>Salario</label>
+        <input type="number" name="Salario" value="@Model.Salario" class="w-full border p-2 rounded" />
+        <span asp-validation-for="Salario" class="text-red-500"></span>
+    </div>
+    <div class="mt-4 flex justify-end gap-2">
+        <button type="button" class="btn-cancelar bg-gray-300 px-4 py-2 rounded">Cancelar</button>
+        <button type="submit" class="btn-guardar bg-blue-500 text-white px-4 py-2 rounded">Guardar</button>
+    </div>
+</form>

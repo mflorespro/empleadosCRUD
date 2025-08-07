@@ -1,0 +1,10 @@
+﻿@model Tuple<string, string>
+
+<!-- Item1: tipo, Item2: mensaje -->
+@if (!string.IsNullOrEmpty(Model?.Item2))
+{
+    <div class="alert alert-@Model.Item1 alert-dismissible fade show" role="alert">
+        @Model.Item2
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}

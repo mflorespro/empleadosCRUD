@@ -1,0 +1,432 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mflorespro\\Documents\\VS CODE\\EmpleadosCRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE79FA2-6178-48E3-B09A-B22177475973}|EmpleadosWeb\\EmpleadosWeb.csproj|c:\\users\\mflorespro\\documents\\vs code\\empleadoscrud\\empleadosweb\\wwwroot\\js\\empleados.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BFE79FA2-6178-48E3-B09A-B22177475973}|EmpleadosWeb\\EmpleadosWeb.csproj|solutionrelative:empleadosweb\\wwwroot\\js\\empleados.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE79FA2-6178-48E3-B09A-B22177475973}|EmpleadosWeb\\EmpleadosWeb.csproj|c:\\users\\mflorespro\\documents\\vs code\\empleadoscrud\\empleadosweb\\views\\empleados\\partials\\_formcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFE79FA2-6178-48E3-B09A-B22177475973}|EmpleadosWeb\\EmpleadosWeb.csproj|solutionrelative:empleadosweb\\views\\empleados\\partials\\_formcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE79FA2-6178-48E3-B09A-B22177475973}|EmpleadosWeb\\EmpleadosWeb.csproj|c:\\users\\mflorespro\\documents\\vs code\\empleadoscrud\\empleadosweb\\views\\empleados\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFE79FA2-6178-48E3-B09A-B22177475973}|EmpleadosWeb\\EmpleadosWeb.csproj|solutionrelative:empleadosweb\\views\\empleados\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE79FA2-6178-48E3-B09A-B22177475973}|EmpleadosWeb\\EmpleadosWeb.csproj|c:\\users\\mflorespro\\documents\\vs code\\empleadoscrud\\empleadosweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFE79FA2-6178-48E3-B09A-B22177475973}|EmpleadosWeb\\EmpleadosWeb.csproj|solutionrelative:empleadosweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE79FA2-6178-48E3-B09A-B22177475973}|EmpleadosWeb\\EmpleadosWeb.csproj|c:\\users\\mflorespro\\documents\\vs code\\empleadoscrud\\empleadosweb\\controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE79FA2-6178-48E3-B09A-B22177475973}|EmpleadosWeb\\EmpleadosWeb.csproj|solutionrelative:empleadosweb\\controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE79FA2-6178-48E3-B09A-B22177475973}|EmpleadosWeb\\EmpleadosWeb.csproj|c:\\users\\mflorespro\\documents\\vs code\\empleadoscrud\\empleadosweb\\data\\empleadodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE79FA2-6178-48E3-B09A-B22177475973}|EmpleadosWeb\\EmpleadosWeb.csproj|solutionrelative:empleadosweb\\data\\empleadodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE79FA2-6178-48E3-B09A-B22177475973}|EmpleadosWeb\\EmpleadosWeb.csproj|c:\\users\\mflorespro\\documents\\vs code\\empleadoscrud\\empleadosweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE79FA2-6178-48E3-B09A-B22177475973}|EmpleadosWeb\\EmpleadosWeb.csproj|solutionrelative:empleadosweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE79FA2-6178-48E3-B09A-B22177475973}|EmpleadosWeb\\EmpleadosWeb.csproj|c:\\users\\mflorespro\\documents\\vs code\\empleadoscrud\\empleadosweb\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE79FA2-6178-48E3-B09A-B22177475973}|EmpleadosWeb\\EmpleadosWeb.csproj|solutionrelative:empleadosweb\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE79FA2-6178-48E3-B09A-B22177475973}|EmpleadosWeb\\EmpleadosWeb.csproj|c:\\users\\mflorespro\\documents\\vs code\\empleadoscrud\\empleadosweb\\data\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE79FA2-6178-48E3-B09A-B22177475973}|EmpleadosWeb\\EmpleadosWeb.csproj|solutionrelative:empleadosweb\\data\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE79FA2-6178-48E3-B09A-B22177475973}|EmpleadosWeb\\EmpleadosWeb.csproj|c:\\users\\mflorespro\\documents\\vs code\\empleadoscrud\\empleadosweb\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BFE79FA2-6178-48E3-B09A-B22177475973}|EmpleadosWeb\\EmpleadosWeb.csproj|solutionrelative:empleadosweb\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE79FA2-6178-48E3-B09A-B22177475973}|EmpleadosWeb\\EmpleadosWeb.csproj|c:\\users\\mflorespro\\documents\\vs code\\empleadoscrud\\empleadosweb\\views\\empleados\\partials\\_listaempleados.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFE79FA2-6178-48E3-B09A-B22177475973}|EmpleadosWeb\\EmpleadosWeb.csproj|solutionrelative:empleadosweb\\views\\empleados\\partials\\_listaempleados.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE79FA2-6178-48E3-B09A-B22177475973}|EmpleadosWeb\\EmpleadosWeb.csproj|c:\\users\\mflorespro\\documents\\vs code\\empleadoscrud\\empleadosweb\\views\\empleados\\partials\\_formedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFE79FA2-6178-48E3-B09A-B22177475973}|EmpleadosWeb\\EmpleadosWeb.csproj|solutionrelative:empleadosweb\\views\\empleados\\partials\\_formedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE79FA2-6178-48E3-B09A-B22177475973}|EmpleadosWeb\\EmpleadosWeb.csproj|c:\\users\\mflorespro\\documents\\vs code\\empleadoscrud\\empleadosweb\\views\\empleados\\partials\\_confirmdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFE79FA2-6178-48E3-B09A-B22177475973}|EmpleadosWeb\\EmpleadosWeb.csproj|solutionrelative:empleadosweb\\views\\empleados\\partials\\_confirmdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE79FA2-6178-48E3-B09A-B22177475973}|EmpleadosWeb\\EmpleadosWeb.csproj|c:\\users\\mflorespro\\documents\\vs code\\empleadoscrud\\empleadosweb\\views\\empleados\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFE79FA2-6178-48E3-B09A-B22177475973}|EmpleadosWeb\\EmpleadosWeb.csproj|solutionrelative:empleadosweb\\views\\empleados\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE79FA2-6178-48E3-B09A-B22177475973}|EmpleadosWeb\\EmpleadosWeb.csproj|c:\\users\\mflorespro\\documents\\vs code\\empleadoscrud\\empleadosweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BFE79FA2-6178-48E3-B09A-B22177475973}|EmpleadosWeb\\EmpleadosWeb.csproj|solutionrelative:empleadosweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE79FA2-6178-48E3-B09A-B22177475973}|EmpleadosWeb\\EmpleadosWeb.csproj|c:\\users\\mflorespro\\documents\\vs code\\empleadoscrud\\empleadosweb\\views\\empleados\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFE79FA2-6178-48E3-B09A-B22177475973}|EmpleadosWeb\\EmpleadosWeb.csproj|solutionrelative:empleadosweb\\views\\empleados\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE79FA2-6178-48E3-B09A-B22177475973}|EmpleadosWeb\\EmpleadosWeb.csproj|c:\\users\\mflorespro\\documents\\vs code\\empleadoscrud\\empleadosweb\\views\\empleados\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFE79FA2-6178-48E3-B09A-B22177475973}|EmpleadosWeb\\EmpleadosWeb.csproj|solutionrelative:empleadosweb\\views\\empleados\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE79FA2-6178-48E3-B09A-B22177475973}|EmpleadosWeb\\EmpleadosWeb.csproj|c:\\users\\mflorespro\\documents\\vs code\\empleadoscrud\\empleadosweb\\views\\shared\\_alertmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFE79FA2-6178-48E3-B09A-B22177475973}|EmpleadosWeb\\EmpleadosWeb.csproj|solutionrelative:empleadosweb\\views\\shared\\_alertmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE79FA2-6178-48E3-B09A-B22177475973}|EmpleadosWeb\\EmpleadosWeb.csproj|c:\\users\\mflorespro\\documents\\vs code\\empleadoscrud\\empleadosweb\\views\\empleados\\partials\\_modaleditempleado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFE79FA2-6178-48E3-B09A-B22177475973}|EmpleadosWeb\\EmpleadosWeb.csproj|solutionrelative:empleadosweb\\views\\empleados\\partials\\_modaleditempleado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE79FA2-6178-48E3-B09A-B22177475973}|EmpleadosWeb\\EmpleadosWeb.csproj|c:\\users\\mflorespro\\documents\\vs code\\empleadoscrud\\empleadosweb\\wwwroot\\css\\empleados.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BFE79FA2-6178-48E3-B09A-B22177475973}|EmpleadosWeb\\EmpleadosWeb.csproj|solutionrelative:empleadosweb\\wwwroot\\css\\empleados.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE79FA2-6178-48E3-B09A-B22177475973}|EmpleadosWeb\\EmpleadosWeb.csproj|c:\\users\\mflorespro\\documents\\vs code\\empleadoscrud\\empleadosweb\\views\\empleados\\partials\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFE79FA2-6178-48E3-B09A-B22177475973}|EmpleadosWeb\\EmpleadosWeb.csproj|solutionrelative:empleadosweb\\views\\empleados\\partials\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE79FA2-6178-48E3-B09A-B22177475973}|EmpleadosWeb\\EmpleadosWeb.csproj|c:\\users\\mflorespro\\documents\\vs code\\empleadoscrud\\empleadosweb\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFE79FA2-6178-48E3-B09A-B22177475973}|EmpleadosWeb\\EmpleadosWeb.csproj|solutionrelative:empleadosweb\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE79FA2-6178-48E3-B09A-B22177475973}|EmpleadosWeb\\EmpleadosWeb.csproj|c:\\users\\mflorespro\\documents\\vs code\\empleadoscrud\\empleadosweb\\views\\empleados\\partials\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFE79FA2-6178-48E3-B09A-B22177475973}|EmpleadosWeb\\EmpleadosWeb.csproj|solutionrelative:empleadosweb\\views\\empleados\\partials\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE79FA2-6178-48E3-B09A-B22177475973}|EmpleadosWeb\\EmpleadosWeb.csproj|c:\\users\\mflorespro\\documents\\vs code\\empleadoscrud\\empleadosweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BFE79FA2-6178-48E3-B09A-B22177475973}|EmpleadosWeb\\EmpleadosWeb.csproj|solutionrelative:empleadosweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE79FA2-6178-48E3-B09A-B22177475973}|EmpleadosWeb\\EmpleadosWeb.csproj|c:\\users\\mflorespro\\documents\\vs code\\empleadoscrud\\empleadosweb\\empleadosweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BFE79FA2-6178-48E3-B09A-B22177475973}|EmpleadosWeb\\EmpleadosWeb.csproj|solutionrelative:empleadosweb\\empleadosweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmpleadosController.cs",
+              "DocumentMoniker": "C:\\Users\\mflorespro\\Documents\\VS CODE\\EmpleadosCRUD\\EmpleadosWeb\\Controllers\\EmpleadosController.cs",
+              "RelativeDocumentMoniker": "EmpleadosWeb\\Controllers\\EmpleadosController.cs",
+              "ToolTip": "C:\\Users\\mflorespro\\Documents\\VS CODE\\EmpleadosCRUD\\EmpleadosWeb\\Controllers\\EmpleadosController.cs",
+              "RelativeToolTip": "EmpleadosWeb\\Controllers\\EmpleadosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T15:27:33.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ListaEmpleados.cshtml",
+              "DocumentMoniker": "C:\\Users\\mflorespro\\Documents\\VS CODE\\EmpleadosCRUD\\EmpleadosWeb\\Views\\Empleados\\Partials\\_ListaEmpleados.cshtml",
+              "RelativeDocumentMoniker": "EmpleadosWeb\\Views\\Empleados\\Partials\\_ListaEmpleados.cshtml",
+              "ToolTip": "C:\\Users\\mflorespro\\Documents\\VS CODE\\EmpleadosCRUD\\EmpleadosWeb\\Views\\Empleados\\Partials\\_ListaEmpleados.cshtml",
+              "RelativeToolTip": "EmpleadosWeb\\Views\\Empleados\\Partials\\_ListaEmpleados.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAtwBoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-04T12:51:58.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\mflorespro\\Documents\\VS CODE\\EmpleadosCRUD\\EmpleadosWeb\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "EmpleadosWeb\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\mflorespro\\Documents\\VS CODE\\EmpleadosCRUD\\EmpleadosWeb\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "EmpleadosWeb\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-01T11:39:54.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmpleadoData.cs",
+              "DocumentMoniker": "C:\\Users\\mflorespro\\Documents\\VS CODE\\EmpleadosCRUD\\EmpleadosWeb\\Data\\EmpleadoData.cs",
+              "RelativeDocumentMoniker": "EmpleadosWeb\\Data\\EmpleadoData.cs",
+              "ToolTip": "C:\\Users\\mflorespro\\Documents\\VS CODE\\EmpleadosCRUD\\EmpleadosWeb\\Data\\EmpleadoData.cs",
+              "RelativeToolTip": "EmpleadosWeb\\Data\\EmpleadoData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T15:28:16.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_FormCreate.cshtml",
+              "DocumentMoniker": "C:\\Users\\mflorespro\\Documents\\VS CODE\\EmpleadosCRUD\\EmpleadosWeb\\Views\\Empleados\\Partials\\_FormCreate.cshtml",
+              "RelativeDocumentMoniker": "EmpleadosWeb\\Views\\Empleados\\Partials\\_FormCreate.cshtml",
+              "ToolTip": "C:\\Users\\mflorespro\\Documents\\VS CODE\\EmpleadosCRUD\\EmpleadosWeb\\Views\\Empleados\\Partials\\_FormCreate.cshtml",
+              "RelativeToolTip": "EmpleadosWeb\\Views\\Empleados\\Partials\\_FormCreate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-04T12:52:54.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mflorespro\\Documents\\VS CODE\\EmpleadosCRUD\\EmpleadosWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EmpleadosWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mflorespro\\Documents\\VS CODE\\EmpleadosCRUD\\EmpleadosWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EmpleadosWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T16:12:14.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mflorespro\\Documents\\VS CODE\\EmpleadosCRUD\\EmpleadosWeb\\Views\\Empleados\\Create.cshtml",
+              "RelativeDocumentMoniker": "EmpleadosWeb\\Views\\Empleados\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mflorespro\\Documents\\VS CODE\\EmpleadosCRUD\\EmpleadosWeb\\Views\\Empleados\\Create.cshtml",
+              "RelativeToolTip": "EmpleadosWeb\\Views\\Empleados\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-01T12:19:35.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "empleados.js",
+              "DocumentMoniker": "C:\\Users\\mflorespro\\Documents\\VS CODE\\EmpleadosCRUD\\EmpleadosWeb\\wwwroot\\js\\empleados.js",
+              "RelativeDocumentMoniker": "EmpleadosWeb\\wwwroot\\js\\empleados.js",
+              "ToolTip": "C:\\Users\\mflorespro\\Documents\\VS CODE\\EmpleadosCRUD\\EmpleadosWeb\\wwwroot\\js\\empleados.js",
+              "RelativeToolTip": "EmpleadosWeb\\wwwroot\\js\\empleados.js",
+              "ViewState": "AgIAAAQAAAAAAAAAAAArwBYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-31T16:35:15.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ConfirmDelete.cshtml",
+              "DocumentMoniker": "C:\\Users\\mflorespro\\Documents\\VS CODE\\EmpleadosCRUD\\EmpleadosWeb\\Views\\Empleados\\Partials\\_ConfirmDelete.cshtml",
+              "RelativeDocumentMoniker": "EmpleadosWeb\\Views\\Empleados\\Partials\\_ConfirmDelete.cshtml",
+              "ToolTip": "C:\\Users\\mflorespro\\Documents\\VS CODE\\EmpleadosCRUD\\EmpleadosWeb\\Views\\Empleados\\Partials\\_ConfirmDelete.cshtml",
+              "RelativeToolTip": "EmpleadosWeb\\Views\\Empleados\\Partials\\_ConfirmDelete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-04T12:56:44.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mflorespro\\Documents\\VS CODE\\EmpleadosCRUD\\EmpleadosWeb\\Views\\Empleados\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmpleadosWeb\\Views\\Empleados\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mflorespro\\Documents\\VS CODE\\EmpleadosCRUD\\EmpleadosWeb\\Views\\Empleados\\Index.cshtml",
+              "RelativeToolTip": "EmpleadosWeb\\Views\\Empleados\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T15:29:17.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mflorespro\\Documents\\VS CODE\\EmpleadosCRUD\\EmpleadosWeb\\Program.cs",
+              "RelativeDocumentMoniker": "EmpleadosWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\mflorespro\\Documents\\VS CODE\\EmpleadosCRUD\\EmpleadosWeb\\Program.cs",
+              "RelativeToolTip": "EmpleadosWeb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T15:13:54.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\mflorespro\\Documents\\VS CODE\\EmpleadosCRUD\\EmpleadosWeb\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "EmpleadosWeb\\Models\\Empleado.cs",
+              "ToolTip": "C:\\Users\\mflorespro\\Documents\\VS CODE\\EmpleadosCRUD\\EmpleadosWeb\\Models\\Empleado.cs",
+              "RelativeToolTip": "EmpleadosWeb\\Models\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T17:10:26.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DbHelper.cs",
+              "DocumentMoniker": "C:\\Users\\mflorespro\\Documents\\VS CODE\\EmpleadosCRUD\\EmpleadosWeb\\Data\\DbHelper.cs",
+              "RelativeDocumentMoniker": "EmpleadosWeb\\Data\\DbHelper.cs",
+              "ToolTip": "C:\\Users\\mflorespro\\Documents\\VS CODE\\EmpleadosCRUD\\EmpleadosWeb\\Data\\DbHelper.cs",
+              "RelativeToolTip": "EmpleadosWeb\\Data\\DbHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T12:16:01.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_FormEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mflorespro\\Documents\\VS CODE\\EmpleadosCRUD\\EmpleadosWeb\\Views\\Empleados\\Partials\\_FormEdit.cshtml",
+              "RelativeDocumentMoniker": "EmpleadosWeb\\Views\\Empleados\\Partials\\_FormEdit.cshtml",
+              "ToolTip": "C:\\Users\\mflorespro\\Documents\\VS CODE\\EmpleadosCRUD\\EmpleadosWeb\\Views\\Empleados\\Partials\\_FormEdit.cshtml",
+              "RelativeToolTip": "EmpleadosWeb\\Views\\Empleados\\Partials\\_FormEdit.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAtwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-04T12:56:05.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mflorespro\\Documents\\VS CODE\\EmpleadosCRUD\\EmpleadosWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "EmpleadosWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\mflorespro\\Documents\\VS CODE\\EmpleadosCRUD\\EmpleadosWeb\\appsettings.json",
+              "RelativeToolTip": "EmpleadosWeb\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-07T12:42:28.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mflorespro\\Documents\\VS CODE\\EmpleadosCRUD\\EmpleadosWeb\\Views\\Empleados\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EmpleadosWeb\\Views\\Empleados\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mflorespro\\Documents\\VS CODE\\EmpleadosCRUD\\EmpleadosWeb\\Views\\Empleados\\Edit.cshtml",
+              "RelativeToolTip": "EmpleadosWeb\\Views\\Empleados\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-01T12:20:23.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\mflorespro\\Documents\\VS CODE\\EmpleadosCRUD\\EmpleadosWeb\\Views\\Empleados\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EmpleadosWeb\\Views\\Empleados\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\mflorespro\\Documents\\VS CODE\\EmpleadosCRUD\\EmpleadosWeb\\Views\\Empleados\\Delete.cshtml",
+              "RelativeToolTip": "EmpleadosWeb\\Views\\Empleados\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T15:30:00.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_AlertMessage.cshtml",
+              "DocumentMoniker": "C:\\Users\\mflorespro\\Documents\\VS CODE\\EmpleadosCRUD\\EmpleadosWeb\\Views\\Shared\\_AlertMessage.cshtml",
+              "RelativeDocumentMoniker": "EmpleadosWeb\\Views\\Shared\\_AlertMessage.cshtml",
+              "ToolTip": "C:\\Users\\mflorespro\\Documents\\VS CODE\\EmpleadosCRUD\\EmpleadosWeb\\Views\\Shared\\_AlertMessage.cshtml",
+              "RelativeToolTip": "EmpleadosWeb\\Views\\Shared\\_AlertMessage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-05T13:20:32.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ModalEditEmpleado.cshtml",
+              "DocumentMoniker": "C:\\Users\\mflorespro\\Documents\\VS CODE\\EmpleadosCRUD\\EmpleadosWeb\\Views\\Empleados\\Partials\\_ModalEditEmpleado.cshtml",
+              "RelativeDocumentMoniker": "EmpleadosWeb\\Views\\Empleados\\Partials\\_ModalEditEmpleado.cshtml",
+              "ToolTip": "C:\\Users\\mflorespro\\Documents\\VS CODE\\EmpleadosCRUD\\EmpleadosWeb\\Views\\Empleados\\Partials\\_ModalEditEmpleado.cshtml",
+              "RelativeToolTip": "EmpleadosWeb\\Views\\Empleados\\Partials\\_ModalEditEmpleado.cshtml",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-05T20:20:09.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mflorespro\\Documents\\VS CODE\\EmpleadosCRUD\\EmpleadosWeb\\Views\\Empleados\\Partials\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EmpleadosWeb\\Views\\Empleados\\Partials\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mflorespro\\Documents\\VS CODE\\EmpleadosCRUD\\EmpleadosWeb\\Views\\Empleados\\Partials\\Edit.cshtml",
+              "RelativeToolTip": "EmpleadosWeb\\Views\\Empleados\\Partials\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T15:29:48.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\mflorespro\\Documents\\VS CODE\\EmpleadosCRUD\\EmpleadosWeb\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "EmpleadosWeb\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\mflorespro\\Documents\\VS CODE\\EmpleadosCRUD\\EmpleadosWeb\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "EmpleadosWeb\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-01T12:05:01.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mflorespro\\Documents\\VS CODE\\EmpleadosCRUD\\EmpleadosWeb\\Views\\Empleados\\Partials\\Create.cshtml",
+              "RelativeDocumentMoniker": "EmpleadosWeb\\Views\\Empleados\\Partials\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mflorespro\\Documents\\VS CODE\\EmpleadosCRUD\\EmpleadosWeb\\Views\\Empleados\\Partials\\Create.cshtml",
+              "RelativeToolTip": "EmpleadosWeb\\Views\\Empleados\\Partials\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-01T12:07:24.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "empleados.css",
+              "DocumentMoniker": "C:\\Users\\mflorespro\\Documents\\VS CODE\\EmpleadosCRUD\\EmpleadosWeb\\wwwroot\\css\\empleados.css",
+              "RelativeDocumentMoniker": "EmpleadosWeb\\wwwroot\\css\\empleados.css",
+              "ToolTip": "C:\\Users\\mflorespro\\Documents\\VS CODE\\EmpleadosCRUD\\EmpleadosWeb\\wwwroot\\css\\empleados.css",
+              "RelativeToolTip": "EmpleadosWeb\\wwwroot\\css\\empleados.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-01T11:33:36.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\mflorespro\\Documents\\VS CODE\\EmpleadosCRUD\\EmpleadosWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "EmpleadosWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\mflorespro\\Documents\\VS CODE\\EmpleadosCRUD\\EmpleadosWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "EmpleadosWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-01T12:09:07.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EmpleadosWeb.csproj",
+              "DocumentMoniker": "C:\\Users\\mflorespro\\Documents\\VS CODE\\EmpleadosCRUD\\EmpleadosWeb\\EmpleadosWeb.csproj",
+              "RelativeDocumentMoniker": "EmpleadosWeb\\EmpleadosWeb.csproj",
+              "ToolTip": "C:\\Users\\mflorespro\\Documents\\VS CODE\\EmpleadosCRUD\\EmpleadosWeb\\EmpleadosWeb.csproj",
+              "RelativeToolTip": "EmpleadosWeb\\EmpleadosWeb.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-31T15:27:53.196Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

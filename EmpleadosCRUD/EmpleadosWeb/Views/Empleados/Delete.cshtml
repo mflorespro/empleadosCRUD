@@ -1,0 +1,15 @@
+﻿@model EmpleadosWeb.Models.Empleado
+
+@{
+    ViewData["Title"] = "Eliminar Empleado";
+}
+
+<h2>Eliminar Empleado</h2>
+
+@Html.Partial("_AlertMessage", Tuple.Create((string)TempData["TipoMensaje"], (string)TempData["Mensaje"]))
+
+@Html.Partial("Partials/_ConfirmDelete", Model)
+
+@section Scripts {
+    <script src="~/js/empleados.js"></script>
+}

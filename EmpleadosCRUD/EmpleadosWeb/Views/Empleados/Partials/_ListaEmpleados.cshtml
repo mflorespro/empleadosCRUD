@@ -1,0 +1,33 @@
+﻿@model IEnumerable<EmpleadosWeb.Models.Empleado>
+<table class="w-full border-collapse">
+    <thead>
+        <tr class="bg-gray-200">
+            <th class="border p-2">Nombre</th>
+            <th class="border p-2">Apellido</th>
+            <th class="border p-2">Edad</th>
+            <th class="border p-2">Correo</th>
+            <th class="border p-2">Departamento</th>
+            <th class="border p-2">Puesto</th>
+            <th class="border p-2">Salario</th>
+            <th class="border p-2">Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var emp in Model)
+        {
+            <tr>
+                <td class="border p-2">@emp.Nombre</td>
+                <td class="border p-2">@emp.Apellido</td>
+                <td class="border p-2">@emp.Edad</td>
+                <td class="border p-2">@emp.Correo</td>
+                <td class="border p-2">@emp.Departamento</td>
+                <td class="border p-2">@emp.Puesto</td>
+                <td class="border p-2">@emp.Salario</td>
+                <td class="border p-2">
+                    <button @@click ="abrirModalEditar(@emp.Id)" class="text-blue-600">Editar</button>
+                    <button @@click ="confirmarEliminar(@emp.Id)" class="text-red-600">Eliminar</button>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

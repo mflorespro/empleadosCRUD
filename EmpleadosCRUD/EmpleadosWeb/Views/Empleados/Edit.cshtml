@@ -1,0 +1,19 @@
+﻿@model EmpleadosWeb.Models.Empleado
+
+@{
+    ViewData["Title"] = "Editar Empleado";
+    var tipo = TempData["TipoMensaje"] as string ?? "info";
+    var mensaje = TempData["Mensaje"] as string;
+}
+
+@await Html.PartialAsync("_AlertMessage.cshtml", Tuple.Create(tipo, mensaje))
+
+<h2 class="mb-4">Editar Empleado</h2>
+
+@await Html.PartialAsync("Partials/_FormEdit.cshtml", Model)
+
+@section Scripts {
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="~/js/empleados.js"></script>
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+}

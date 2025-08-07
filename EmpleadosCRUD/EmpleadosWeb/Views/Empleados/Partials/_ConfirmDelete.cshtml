@@ -1,0 +1,9 @@
+﻿@model EmpleadosWeb.Models.Empleado
+<div>
+    <p>¿Estás seguro que deseas eliminar al empleado <strong>@Model.Nombre @Model.Apellido</strong>?</p>
+    <form method="post" action="/Empleados/Delete">
+        <input type="hidden" name="Id" value="@Model.Id" />
+        <button type="submit" class="bg-red-600 text-white px-4 py-2 rounded">Eliminar</button>
+        <button type="button" @@click ="cerrarModal()" class="bg-gray-300 px-4 py-2 rounded">Cancelar</button>
+    </form>
+</div>

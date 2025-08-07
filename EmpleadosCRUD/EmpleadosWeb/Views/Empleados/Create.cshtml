@@ -1,0 +1,16 @@
+﻿@model EmpleadosWeb.Models.Empleado
+
+@{
+    ViewData["Title"] = "Crear Empleado";
+}
+
+<h2>Crear Nuevo Empleado</h2>
+
+@Html.Partial("_AlertMessage", Tuple.Create((string)TempData["TipoMensaje"], (string)TempData["Mensaje"]))
+
+@Html.Partial("Partials/_FormCreate", Model)
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    <script src="~/js/empleados.js"></script>
+}
